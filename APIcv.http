@@ -1,0 +1,6 @@
+@APIcv_HostAddress = http://localhost:5179
+
+GET {{APIcv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
